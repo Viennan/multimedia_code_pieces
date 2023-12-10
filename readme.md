@@ -1,1 +1,1 @@
-# Some Useful Code Snaps About Multimedia processing
+# Some Useful Code Snaps About Multimedia Processing
