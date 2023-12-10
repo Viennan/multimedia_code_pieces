@@ -1,0 +1,2 @@
+add_executable(basic_transcode basic_transcode.cpp)
+target_link_libraries(basic_transcode PUBLIC FFmpeg)
